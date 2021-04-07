@@ -1,1 +1,1 @@
-"# CityU-CS3481-Fundamentals-of-Data-Science" 
+# CityU CS3481 Fundamentals of Data Science Assignments
